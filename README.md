@@ -2,7 +2,7 @@
 
 ### Functional Programming activity (25 pts)
 * Use the Text-Based Adventure game as the concept and motivation behind your design
-* [ ] demonstrate the use of each of the five common functional interfaces with short programmatic snippets (examples)
+* demonstrate the use of each of the five common functional interfaces with short programmatic snippets (examples)
     * [ ] Supplier
     * [ ] Consumer
     * [ ] Predicate
